@@ -1,16 +1,15 @@
-### Hi there 👋
+### ✌️😊 Ola! Eu sou Pedro Bacovis!!
 
-<!--
-**Peubacovis/Peubacovis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-🔰 Militar da reserva não remunerada do Exercito Brasileiro. Porem atualmente estou migrando para a área de tecnologia como desenvolvedor backend.
 
-Here are some ideas to get you started:
+-🎓 Estudo Ciencia da computação na Estacio e estou no 1º periodo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🎓 Fiz um curso de Logica de programação em python na Treina Recife.
+
+-🎓 fiz um curso de java Web com Spring boot na Treina Recife.
+
+-🌱 Tenho experiência em desenvolvimento de projetos com Java e Spring Boot.
+
+[![Peubacovis GitHub stats](https://github-readme-stats.vercel.app/api?username=Peubacovis&show_icons=true&theme=merko)](https://github.com/Peubacovis)
+
+
