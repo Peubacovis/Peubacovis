@@ -1,6 +1,6 @@
 ### ✌️😊 Ola! Eu sou Pedro Bacovis!!
 
--🔰 Militar da reserva não remunerada do Exercito Brasileiro. Atualmente estou migrando para a área de tecnologia como desenvolvedor backend.
+-🔰 Militar da reserva não remunerada do Exercito Brasileiro. Atualmente estou migrando para a área de tecnologia como desenvolvedor.
 
 -🎓 Estudo Ciencia da computação na Estacio e estou no 1º periodo.
 
