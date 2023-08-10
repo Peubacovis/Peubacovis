@@ -8,6 +8,10 @@
 
 -🎓 Fiz um curso de java Web com Spring boot na Treina Recife.
 
+-🎓 Fiz um curso de SQL na Treina Recife.
+
+-🎓 Fiz um curso de Frontend na Treina Recife.
+
 -🌱 Tenho experiência em desenvolvimento de projetos com Java e Spring Boot.
 
 </br>
