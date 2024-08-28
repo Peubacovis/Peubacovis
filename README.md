@@ -2,7 +2,7 @@
 
 -🔰 Militar da reserva não remunerada do Exercito Brasileiro. Atualmente estou migrando para a área de tecnologia como desenvolvedor.
 
--🎓 Estudo Ciencia da computação na Estacio e estou no 2º periodo.
+-🎓 Estudo Ciencia da computação na Estacio e estou no 4º periodo.
 
 -🎓 Fiz um curso de Logica de programação em python na Treina Recife.
 
