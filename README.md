@@ -23,7 +23,6 @@ I'm a Computer Science student currently in the 5th semester, passionate about s
 - [LinkedIn](https://www.linkedin.com/in/pedro-bacovis/)
 - Email: pedrobacovis@example.com
 - Portfolio (coming soon...)
-
 ---
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
