@@ -20,7 +20,7 @@ I'm a Computer Science student currently in my 5th semester, passionate about so
 - Teams where I can contribute backend expertise and continue growing
 
 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/pedro-bacovis/)
+- [LinkedIn](https://www.linkedin.com/in/pedro-bacovis-290512270/)
 - 📧 Email: pedrolink424@gmail.com
 - 🌐 Portfolio: coming soon...
 
