@@ -1,18 +1,31 @@
-### ✌️😊 Ola! Eu sou Pedro Bacovis!!
+## 👋 Hi, I'm Pedro Bacovis
 
--🔰 Militar da reserva não remunerada do Exercito Brasileiro. Atualmente estou migrando para a área de tecnologia como desenvolvedor.
+I'm a Computer Science student currently in the 5th semester, passionate about software development, backend technologies, and building real solutions to real problems.
 
--🎓 Estudo Ciencia da computação na Estacio e estou no 5º periodo.
+🔧 I'm currently working on:
+- 🧠 Paggo - OCR Case: a fullstack project that extracts and explains text from documents using AI.
+- 💻 Improving my skills in React (Next.js) and NestJS.
 
--🎓 Fiz um curso de Logica de programação em python na Treina Recife.
+🎓 I'm studying at Estácio University and have 1.5 years of experience in backend and frontend development.
 
--🎓 Fiz um curso de java Web com Spring boot na Treina Recife.
+🚀 Tech Stack:
+- Languages: Java, PHP, JavaScript, TypeScript, SQL
+- Backend: Spring Boot, NestJS, Express
+- Frontend: React, Next.js, HTML/CSS
+- Database: PostgreSQL, MySQL, Prisma ORM
+- Tools: Git, Postman, Docker (learning)
 
--🎓 Fiz um curso de SQL na Treina Recife.
+🌍 I'm looking for:
+- International internships or junior developer opportunities
+- Projects where I can apply backend knowledge and learn from great teams
 
--🎓 Fiz um curso de Frontend na Treina Recife.
+📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/pedro-bacovis/)
+- Email: pedrobacovis@example.com
+- Portfolio (coming soon...)
 
--🌱 Tenho experiência em desenvolvimento de projetos com Java e Spring Boot.
+---
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 </br>
 <div align="center">
