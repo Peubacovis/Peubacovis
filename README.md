@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Pedro Bacovis
 
-I'm a Computer Science student currently in my 6th semester, passionate about software development, backend technologies, and building real-world solutions that make a difference.
+I'm a Computer Science student currently in my 7th semester, passionate about software development, backend technologies, and building real-world solutions that make a difference.
 
 🔧 Currently working on:
 - 🧠 **Paggo - OCR Case**: a fullstack platform that extracts and explains document content using AI.
