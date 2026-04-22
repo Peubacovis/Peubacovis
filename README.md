@@ -6,7 +6,7 @@ I'm a Computer Science student currently in my 7th semester, passionate about so
 - 🧠 **Paggo - OCR Case**: a fullstack platform that extracts and explains document content using AI.
 - 💻 Improving my skills in **React (Next.js)** and **NestJS**.
 
-🎓 I study at Estácio University and have 1.5 years of experience in both backend and frontend development.
+🎓 I study at Estácio University and have 2 years of experience in both backend and frontend development.
 
 🚀 Tech Stack:
 - **Languages**: Java, PHP, JavaScript, TypeScript, SQL
@@ -16,7 +16,6 @@ I'm a Computer Science student currently in my 7th semester, passionate about so
 - **Tools**: Git, Postman, Docker (learning)
 
 🌍 I'm looking for:
-- International **internships** or **junior developer** opportunities
 - Teams where I can contribute backend expertise and continue growing
 
 📫 How to reach me:
